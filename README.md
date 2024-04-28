@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudipta, a Full-Stack enthusiastic Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Sudipta, a Full-Stack Enthusiastic Software Engineer</h1>
 <h3 align="center">🚀 Skilled Software Engineer with a Bachelor's in Computer Engineering and 2+ years of experience in Development and working in Agile Methodologies. Expertise lies in crafting high-performing UIs and robust Backend solutions</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
